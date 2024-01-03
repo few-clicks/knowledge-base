@@ -32,9 +32,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0190ef4067c2aea6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge-base/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge-base/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "knowledge-base/Git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,16 +164,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "df2455ac38235ead",
+  "active": "0190ef4067c2aea6",
   "lastOpenFiles": [
-    "knowledge-base/Фреймворки.md",
+    "knowledge-base/Git.md",
+    "Home.md",
     "knowledge-base/Запуск lightsaber-ui.md",
+    "knowledge-base/Фреймворки.md",
     "knowledge-base/lightsaber-ui.md",
     "knowledge-base/Input компонент.md",
     "knowledge-base/Typography компонент.md",
     "knowledge-base/Button.md",
     "knowledge-base/Layout компоненты.md",
-    "knowledge-base/Git.md",
     "knowledge-base/Соглашение о коммитах.md",
     "knowledge-base/Системное администрирование.md",
     "Makefile",
