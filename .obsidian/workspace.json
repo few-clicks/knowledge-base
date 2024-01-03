@@ -37,8 +37,13 @@
             "id": "0190ef4067c2aea6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-base/lightsaber-ui.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "knowledge-base/lightsaber-ui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "knowledge-base/lightsaber-ui.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "knowledge-base/lightsaber-ui.md"
+              }
             }
           }
         ]
