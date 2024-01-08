@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "764facba9205d3fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed53df84b47fb91c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70eb0d78658a68fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-base/lightsaber-ui.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "df2455ac38235ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-base/Git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0190ef4067c2aea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-base/lightsaber-ui.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ed2dfd57e8f9abe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f91c2a14e4744ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d9f8cb9d46aadfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2d167b09f625a46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4c00f5dd7bff0c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48528f24b1653c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "65dd91e402f635c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c82a0644be808ce9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "knowledge-base/lightsaber-ui.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5be04437c2482337",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "knowledge-base/lightsaber-ui.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d6a74e4b9930ca1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a333937ac3b77c1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "knowledge-base/lightsaber-ui.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0190ef4067c2aea6",
+  "lastOpenFiles": [
+    "knowledge-base/Tg notification bot.md",
+    "knowledge-base/Git.md",
+    "Home.md",
+    "knowledge-base/Запуск lightsaber-ui.md",
+    "knowledge-base/Фреймворки.md",
+    "knowledge-base/lightsaber-ui.md",
+    "knowledge-base/Input компонент.md",
+    "knowledge-base/Typography компонент.md",
+    "knowledge-base/Button.md",
+    "knowledge-base/Layout компоненты.md",
+    "knowledge-base/Соглашение о коммитах.md",
+    "knowledge-base/Системное администрирование.md",
+    "Makefile",
+    "knowledge-base/Makefile",
+    "Git.md",
+    "Без названия.md",
+    "knowledge-base"
+  ]
+}
